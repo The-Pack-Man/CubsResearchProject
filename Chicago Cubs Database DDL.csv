@@ -1,0 +1,17 @@
+Table Name,Column Name,Data Type
+game_info,gamePk,bigint
+game_info,Game Date,text
+game_info,Game Time,text
+game_info,Game Status,text
+game_info,Venue ID,bigint
+game_info,Venue Name,text
+game_info,Away Team Score,bigint
+game_info,Home Team Score,bigint
+game_info,Away Team ID,bigint
+game_info,Away Team Name,text
+game_info,Home Team ID,bigint
+game_info,Home Team Name,text
+event_info,gamePk,text
+event_info,Pitch_Count,bigint
+event_info,Max_Exit_Velocity_Player_Name,text
+event_info,Max_Exit_Velocity_Player_ID,bigint
